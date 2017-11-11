@@ -10,5 +10,9 @@ Major Specifications:
 * FG can generates class names with Pascal, Camel and Upper capitalization. 
 * With FG, EF classes can be generated in a "select and generate" way. Don't needed to generate all database classes at once.
 
+For Detail Information:
+
+http://vyigity.blogspot.com.tr/2017/11/fluentgenerator-kullanarak-oracle.html
+
 
 
