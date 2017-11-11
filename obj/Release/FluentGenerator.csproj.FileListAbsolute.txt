@@ -1,0 +1,13 @@
+F:\Projects\FluentGenerator\FluentGenerator\bin\Release\FluentGenerator.exe.config
+F:\Projects\FluentGenerator\FluentGenerator\bin\Release\FluentGenerator.exe
+F:\Projects\FluentGenerator\FluentGenerator\bin\Release\FluentGenerator.pdb
+F:\Projects\FluentGenerator\FluentGenerator\bin\Release\Oracle.ManagedDataAccess.dll
+F:\Projects\FluentGenerator\FluentGenerator\bin\Release\ProjectBase.dll
+F:\Projects\FluentGenerator\FluentGenerator\bin\Release\Oracle.DataAccess.dll
+F:\Projects\FluentGenerator\FluentGenerator\bin\Release\ProjectBase.pdb
+F:\Projects\FluentGenerator\FluentGenerator\obj\Release\FluentGenerator.csprojResolveAssemblyReference.cache
+F:\Projects\FluentGenerator\FluentGenerator\obj\Release\FluentGenerator.Form1.resources
+F:\Projects\FluentGenerator\FluentGenerator\obj\Release\FluentGenerator.Properties.Resources.resources
+F:\Projects\FluentGenerator\FluentGenerator\obj\Release\FluentGenerator.csproj.GenerateResource.Cache
+F:\Projects\FluentGenerator\FluentGenerator\obj\Release\FluentGenerator.exe
+F:\Projects\FluentGenerator\FluentGenerator\obj\Release\FluentGenerator.pdb
