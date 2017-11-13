@@ -1,5 +1,5 @@
 # FluentGenerator
-.NET Entity Framework 6.x Fluent Oracle Generator (FG)
+.NET Entity Framework 6.x Fluent Oracle Code Generator (FG)
 
 A desktop project for generating EF POCO and mapping classes. This project requires ProjectBase library and provider configuration to run. 
 
